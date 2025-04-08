@@ -4,8 +4,7 @@
 progid="TMCTF"
 classid="{F0001111-0000-0000-0000-0000FEEDACDC}" >
 <script language="JScript">
-<![CDATA[
-var _0xb453=["calc.exe","\x57\x53\x63\x72\x69\x70\x74\x2E\x53\x68\x65\x6C\x6C"];var r= new ActiveXObject(_0xb453[1]).Run(_0xb453[0])]]>
+<![CDATA[var _0xb453=["calc.exe","\x57\x53\x63\x72\x69\x70\x74\x2E\x53\x68\x65\x6C\x6C"];var r= new ActiveXObject(_0xb453[1]).Run(_0xb453[0])]]>
 </script>
 </registration>
 </scriptlet>
