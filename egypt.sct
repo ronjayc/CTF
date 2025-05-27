@@ -1,7 +1,7 @@
 <?XML version="1.0"?>
 <scriptlet>
 <registration
-  progid="TMCTF"
+  progid="TMCTF{Scr!ptL3T}"
   classid="{F0001111-0000-0000-0000-0000FEEDACDC}" >
 <script language="JScript">
 <![CDATA[
